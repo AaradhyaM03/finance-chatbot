@@ -24,4 +24,3 @@ def get_financial_advice(user_query):
 if __name__ == "__main__":
     user_input = input("Ask me a finance question: ")
     print(get_financial_advice(user_input))
-
